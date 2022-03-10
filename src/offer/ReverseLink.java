@@ -1,5 +1,6 @@
 package offer;
 
+/*
 class ListNode {
     int val;
     ListNode next = null;
@@ -21,4 +22,4 @@ public class ReverseLink {
         }
         return  pre;
     }
-}
+}*/
