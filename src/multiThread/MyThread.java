@@ -8,20 +8,15 @@ package multiThread;
  * @return
  * */
 public class MyThread extends Thread {
-        private long i = 0;
-
-    public long getI() {
-        return i;
-    }
-
-    public void setI(long i) {
-        this.i = i;
-    }
+     static int i = 0;
 
     @Override
-    public void run(){
-        while(true){
-            i++;
+     public void run(){
+        synchronized(this) {
+            while (i <= 9999) {
+                i++;
+                System.out.println(this.getName() + " " + i);
+            }
         }
     }
 
