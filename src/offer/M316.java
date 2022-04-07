@@ -27,6 +27,7 @@ public class M316 {
 
     }
 
+
     @Test
     public void test() {
         String s = "bcabc";
