@@ -1,7 +1,7 @@
 package sort;
 
 import org.junit.Test;
-
+//选择排序
 public class select {
     public static void selectSort(int[] a) {
         for (int i = 0; i < a.length; i++) {

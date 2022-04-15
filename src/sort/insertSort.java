@@ -1,7 +1,7 @@
 package sort;
 
 import org.junit.Test;
-
+//插入排序
 public class insertSort {
     public static void insertSort(int[] arr) {
         for (int i = 1; i < arr.length; i++) {
