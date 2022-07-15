@@ -1,5 +1,6 @@
 hello to world
 this is to
 m speaking
-ÄãºÃÊÀ½ç£¬
-UTF-8²âÊÔ
+Ã„Ã£ÂºÃƒÃŠÃ€Â½Ã§Â£Â¬
+UTF-8Â²Ã¢ÃŠÃ”
+this file need some rgiht encodings
