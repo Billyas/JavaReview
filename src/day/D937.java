@@ -15,6 +15,7 @@ public class D937 {
             for (int i = 0; i < length; i++) {
                 reordered[i] = arr[i].log;
             }
+            System.out.println("reoerded");
             return reordered;
         }
 
