@@ -17,6 +17,7 @@ public class NC108 {
     public int maxarea(int a, int b) {
         int area = 1;//只有一个顶点的情况
         int ll = 1;//边
+        System.out.println("Hello");
         int i = a;
         int j = b;
         while (i + 1 < n && j + 1 < m) {
