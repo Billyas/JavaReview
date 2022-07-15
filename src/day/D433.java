@@ -55,6 +55,7 @@ public class D433 {
     public  void test(){
             String start = "AACCGGTT";
             String end = "AAACGGTA";
+            System.out.println("test start");
             String[] bank = {"AACCGGTA", "AACCGGTG", "AAACGGTA"};
             System.out.println(minMutation(start, end, bank));
 
