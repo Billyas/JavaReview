@@ -13,6 +13,7 @@ public class buboo {
                     sorted[j] = temp;
                 }
             }
+            System.out.println("one sorted finished");
         }
         return sorted;
     }
