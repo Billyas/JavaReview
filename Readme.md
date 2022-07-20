@@ -19,4 +19,4 @@
 
 ## [DesignMode](/src/DesignMode/) 
 1. [design mode](https://www.runoob.com/design-pattern/design-pattern-intro.html)
-2. 
+2. sorry, just for this Pair Extraordinaire 
